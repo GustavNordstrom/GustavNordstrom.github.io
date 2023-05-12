@@ -1,0 +1,1179 @@
+{
+    "MainMenu.NewGame": "New Game",
+    "MainMenu.Continue": "Continue",
+    "MainMenu.Options": "Options",
+    "InGameMenu.Item": "Item",
+    "InGameMenu.Skil": "Skill",
+    "InGameMenu.Equip": "Equip",
+    "InGameMenu.Status": "Status",
+    "InGameMenu.Formation": "Formation",
+    "InGameMenu.Save": "Save",
+    "InGameMenu.GameEnd": "Game End",
+    "InGameMenu.ToTitle": "To Title",
+    "InGameMenu.Cancel": "Cancel",
+    "textPrologue_Prologue.Message01": "Navigation Officer:  Captain we can't see anything in fifty kilometer. ",
+    "textPrologue_Prologue.Message02": "Hi! ",
+    "text.test1": "This is some test text 1",
+    "text.test2": "This is some other test text 2",
+    "text.test3": "This is some more other test text 3",
+    "q1": {
+        "q": "What should you do to manage a burn if burn gel is inaccessible?",
+        "a": "Cover with wet sterile dressings.",
+        "b": "Cover with dry sterile dressings.",
+        "c": "Leave the burn area open if transport is less than 2 hours.",
+        "d": "Leave the burn area open if transport is less than 1 hour.",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q2": {
+        "q": "A 23 year old male presents with obvious distress and dyspnea, unilateral chest movement, and decreased SpO2 at 87% following a suspected blast injury from a pipe bomb. He is speaking in one to two word sentences. What should you do?",
+        "a": "Provide positive-pressure ventilations.",
+        "b": "Place in the recovery position.",
+        "c": "Apply nonrebreathing mask at 15 lpm.",
+        "d": "Begin needle decompression.",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q3": {
+        "q": "A casualty has been shot in the face. He is conscious, sitting up, leaning forward, and maintaining his own airway. What should you do?",
+        "a": "Perform a surgical airway using a cricothyrotomy kit.",
+        "b": "Place him in the supine position and insert a nasopharyngeal airway.",
+        "c": "Apply a cervical collar to stabilize the spine.",
+        "d": "Allow him to continue to sit up and lean forward as care is rendered.",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q4": {
+        "q": "A 37 year old hostage exits a house and begins seizing. He has stopped seizing by the time you extract him. He is breathing at 24 breaths per minute with adequate chest rise and fall but he is still unresponsive. What should you do?",
+        "a": "Sit the patient up against a tree.",
+        "b": "Roll him into a prone position.",
+        "c": "Keep the patient supine.",
+        "d": "Place him in the recovery position.",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q5": {
+        "q": "In the indirect threat care/warm zone, you have just finished your MARCH algorithm and patient assessment on your wounded partner. As you are preparing for evacuation, you notice the patient is cold. What should you do?",
+        "a": "Cover with a blanket.",
+        "b": "Splint extremities.",
+        "c": "Complete a triage tag.",
+        "d": "Administer antibiotics.",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q6": {
+        "q": "A 29 year old male has a single gunshot wound to the pelvis. A junctional tourniquet was placed and appears to be effective. He is pale, has a weak radial pulse, and is screaming in pain. You have decided to provide pain management via IV/IO. What should you administer?",
+        "a": "Ketamine, 50 mg",
+        "b": "Ketamine, 20 mg",
+        "c": "Morphine, 10 mg",
+        "d": "Morphine, 5 mg",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q7": {
+        "q": "Which of the following is true of IV fluid administration?",
+        "a": "It should be administered over PO fluids.",
+        "b": "1 liter should be administered via large gauge catheter run wide open TKO.",
+        "c": "It should be administered only when necessary to maintain a systolic BP of 80 to 90 mm Hg.",
+        "d": "It should be administered to all casualties with traumatic injuries.",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q8": {
+        "q": "Law enforcement officers are called to the scene of a barricaded suspect. After securing the perimeter, officers watch the house for signs of movement. Suddenly, the suspect begins shooting with a rifle from his front window, and an officer is shot in the neck. He yells, “I’m hit!” What should you do?",
+        "a": "Wait for help from other officers.",
+        "b": "Stop the bleeding with direct pressure.",
+        "c": "Move off the X to cover.",
+        "d": "Stop the bleeding with a hemostatic dressing.",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q9": {
+        "q": "A 34 year old officer was shot in the ankle and a tourniquet was applied. He is unresponsive after several doses of IM morphine. Vital signs are BP 118/68, P 104, R 8 and shallow. What should you administer?",
+        "a": "Naloxone",
+        "b": "Flumazenil",
+        "c": "Epinephrine",
+        "d": "Diphenhydramine",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q10": {
+        "q": "A 28 year old officer was struck in the head while entering a hostile environment. Upon assessment, you note that he has an irregular respiratory pattern, elevated blood pressure, and a decreased pulse. At what level should you maintain this patient’s capnography?",
+        "a": "36–40 mm Hg",
+        "b": "Less than 30 mm Hg",
+        "c": "30–35 mm Hg",
+        "d": "45–50 mm Hg",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q11": {
+        "q": "The intervention of placing a nasopharyngeal airway in a casualty is best accomplished through the use of which of the following?",
+        "a": "Water-soluble lubricant",
+        "b": "Vaseline",
+        "c": "Normal saline",
+        "d": "Blood",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q12": {
+        "q": "After placing an occlusive dressing over a large-caliber gunshot wound to the chest, your patient begins to experience increasing shortness of breath, anxiety, and tachycardia. What should you do?",
+        "a": "Re-secure the occlusive dressing on four sides using medical tape.",
+        "b": "Place a second occlusive dressing over the first.",
+        "c": "Place a 14-gauge × 3.25-inch needle in the chest at the 3rd ICS at the sternal border.",
+        "d": "Perform needle chest decompression.",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q13": {
+        "q": "A police officer suffered blunt trauma to her abdomen after multiple handgun rounds struck her body armor without penetration. She has diffuse abdominal pain and bruising. She is awake, capable, and wants to help with casualty collection point security. How should you implement fluid resuscitation?",
+        "a": "Encourage her to drink fluids and self-hydrate.",
+        "b": "Establish humeral head IO access for aggressive fluid resuscitation.",
+        "c": "Place a 14-gauge IV catheter and pressure infuse 20 ml/kg of crystalloid solution × 2 doses.",
+        "d": "Begin a whole blood transfusion from one of the other law enforcement officers.",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q14": {
+        "q": "A 36 year old male was a casualty during an explosion at a bank. He is responsive with burns to at least 20% of his total body surface area. His clothing is still smoldering. What should you do first?",
+        "a": "Wrap burn injuries in dry sterile dressings.",
+        "b": "Assess for airway compromise.",
+        "c": "Stop the burning process",
+        "d": "Assess for massive hemorrhage.",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q15": {
+        "q": "During an armored car robbery, a 37 year old male security guard was shot by the perpetrator and fell from his armored car. He suffered a penetrating wound to the left thigh with spurting blood and a fractured right wrist. What should you do?",
+        "a": "Utilize pressure point to stop the bleeding.",
+        "b": "Apply a tourniquet to the left thigh.",
+        "c": "Splint the right wrist",
+        "d": "Apply high-flow oxygen.",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q16": {
+        "q": "Immediately after being shot during an active shooter situation, a responder is bleeding heavily from the right lower forearm. The second responder advises him to apply direct pressure to the wound and to self-evacuate behind a nearby vehicle. Which phase of care does this scenario illustrate?",
+        "a": "Tactical field care",
+        "b": "Indirect threat care",
+        "c": "Direct threat care",
+        "d": "Evacuation care",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q17": {
+        "q": "What effect does morphine have on the cardiovascular system?",
+        "a": "No cardiac effect",
+        "b": "Causes vasoconstriction",
+        "c": "Causes vasodilation",
+        "d": "Increases cardiac output",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q18": {
+        "q": "What size catheter should you use for needle decompression on an adult?",
+        "a": "14-gauge, 3.25 inch (8.3 cm)",
+        "b": "18-gauge, 1.25 inch (3.2 cm)",
+        "c": "10-gauge, 2 inch (5.1 cm)",
+        "d": "16-gauge, 1.25 inch (3.2 cm)",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q19": {
+        "q": "A 33 year old responder is bleeding heavily from a gunshot wound to the right chest. He complains of difficulty breathing and pain to the injured site. An active shooter is in the vicinity and you are in the warm zone. What should you do?",
+        "a": "Start the chain of survival.",
+        "b": "Perform needle decompression, midclavicular, between the 2nd and 3rd intercostal space.",
+        "c": "Extract to a treatment area.",
+        "d": "Apply a gloved hand over the injury then apply an occlusive dressing.",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q20": {
+        "q": "A 26 year old female has multiple puncture wounds to the thoracic cavity. Vital signs are BP 160/100, P 100 and regular, R 30 short and shallow, SpO2 94% on room air. What should you do?",
+        "a": "Establish IV/IO access and deliver 1,000 ml of fresh whole blood.",
+        "b": "Apply high-flow oxygen with a nonrebreathing mask.",
+        "c": "Apply vented chest seal to appropriate areas",
+        "d": "Give her a paper bag to help regulate her breathing back to normal.",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q21": {
+        "q": "A 16 year old male is found at the base of the steps during a mass shooting incident. The patient presents with altered mental status and blood leaking from his ears. What should you suspect?",
+        "a": "Traumatic brain injury",
+        "b": "Possible toxin ingestion",
+        "c": "Cardiac arrhythmia",
+        "d": "Hypoglycemia",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q22": {
+        "q": "A 45 year old male at the casualty collection point has multiple gunshot wounds to his lower extremities. A police officer has applied tourniquets prior to your arrival. He is slow to respond and mumbles his words. His radial pulse is weak. What should you do?",
+        "a": "Hyperventilate using bag-mask device.",
+        "b": "Perform needle decompression.",
+        "c": "Initiate IV or IO access.",
+        "d": "Administer morphine via IM.",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q23": {
+        "q": "A 25 year old male has a gunshot wound to the left leg. A tourniquet was applied to control bleeding and he is managing his airway. In the casualty collection point, he is anxious with a weak radial pulse and is shivering. What should you do?",
+        "a": "Administer warmed 1,000 ml IV infusion.",
+        "b": "Remove wet clothing, and apply a thermal barrier.",
+        "c": "Initiate skin to skin contact warming.",
+        "d": "Administer warmed blood product with a Ready Heat Blanket.",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q24": {
+        "q": "A 17 year old male was a victim of a blast injury. He is unconscious and moaning. He has multiple superficial lacerations along with a scalp laceration. What is an ideal systolic blood pressure to maintain for this patient?",
+        "a": "120–140 mm Hg",
+        "b": "70–90 mm Hg",
+        "c": "140–160 mm Hg",
+        "d": "90–110 mm Hg",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q25": {
+        "q": "You are the tactical medic for a SWAT team that is entering a building where an improvised explosive device (IED) has detonated. During the indirect threat phase, you encounter a male patient who is unconscious and lying on his back. The patient has obvious facial trauma and snoring respirations. What should you do first?",
+        "a": "Place the patient in the recovery position.",
+        "b": "Sit the patient up and move to the next patient.",
+        "c": "Perform a jaw thrust.",
+        "d": "Insert a nasal airway.",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q26": {
+        "q": "Prior to placing a casualty on a litter for evacuation, you observe significant swelling to the patient's left upper arm. Upon further examination, it is apparent that capillary refill is delayed, the extremity is cool to the touch, and the radial pulse is weak. What should you suspect?",
+        "a": "Closed humeral fracture",
+        "b": "Hypotension",
+        "c": "Hemorrhagic shock",
+        "d": "Cardiac tamponade",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q27": {
+        "q": "During direct threat care, in which instance should you utilize rapid application of a tourniquet?",
+        "a": "A patient with a gunshot wound to the posterior left shoulder that is heavily bleeding",
+        "b": "An unconscious patient with a graze wound on his right upper arm that is lightly bleeding",
+        "c": "A small child with a gunshot wound through his right hand that is minimally bleeding",
+        "d": "A patient with a gunshot wound to her left thigh that has soaked through her clothing",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q28": {
+        "q": "A 38 year old female has lost approximately 1 liter of blood due to a gunshot wound to the upper thigh. The bleeding is controlled with a tourniquet, and the patient is pale, cool, and clammy. What type of shock should you suspect?",
+        "a": "Obstructive",
+        "b": "Cardiogenic",
+        "c": "Distributive",
+        "d": "Hemorrhagic",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q29": {
+        "q": "A 39 year old female casualty is bleeding from a junctional wound. What should you do?",
+        "a": "Apply a CAT tourniquet to the injured area.",
+        "b": "Reposition the casualty to elevate the injured area.",
+        "c": "Pack the wound with a hemostatic dressing.",
+        "d": "Administer 1 gram of TXA via IV infusion.",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q30": {
+        "q": "You have treated a casualty for a sucking chest wound by applying a nonvented occlusive dressing. As you continue to monitor the casualty, you notice an increase in difficulty breathing. What should you do?",
+        "a": "Provide positive pressure ventilation.",
+        "b": "Immediately intubate.",
+        "c": "Burp the occlusive dressing.",
+        "d": "Apply another occlusive dressing.",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q31": {
+        "q": "Which parameters are appropriate for adult needle decompression and are documented to have a high success rate, especially in patients with higher body mass index (BMI)?",
+        "a": "Second intercostal space, midclavicular line, 14-gauge, 1.25 needle",
+        "b": "Second intercostal space, midaxillary line, 14-gauge, 3.25 needle",
+        "c": "Fifth intercostal space, anterior axillary line, 14-gauge, 3.25 needle",
+        "d": "Fifth intercostal space, midaxillary line, 14-gauge, 1.25 needle",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q32": {
+        "q": "A 27 year old male that was involved in an explosive event is brought to you for treatment. His airway is patent and high-flow oxygen has been administered. He has suffered full-thickness burns over approximately 40% of his body. Vital signs are BP 92/70, P 124, R 22. What should you do?",
+        "a": "Obtain IV/IO access and begin fluid resuscitation.",
+        "b": "Begin ventilations with a bag-mask device.",
+        "c": "Obtain a SAMPLE history.",
+        "d": "Initiate rapid transport to a specialized burn center.",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q33": {
+        "q": "Why should hemostatic dressings be avoided during direct threat care?",
+        "a": "They take up too much space.",
+        "b": "Time constraints make the procedure unsafe.",
+        "c": "Assuring a patent airway is a greater priority than hemorrhage control in the hot zone.",
+        "d": "A tourniquet can control any life-threatening bleeding.",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q34": {
+        "q": "A 25 year old male is short of breath following the deployment of a flash-bang device that caused a fire inside an apartment. He is breathing rapidly, audibly wheezing, and has soot around his lips. Vital signs are BP 140/90, P 120, R 36 and labored. What should you suspect?",
+        "a": "Tension pneumothorax",
+        "b": "Myocardial infarction",
+        "c": "Asthma attack",
+        "d": "Inhalation injury",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q35": {
+        "q": "A 29 year old bystander has a gunshot wound to the upper right leg. A tourniquet was applied prior to arrival at the treatment area. He complains of severe leg pain. Vital signs are BP 110/50, P 100, R 24. What should you do?",
+        "a": "Continue to monitor casualty and move on to the next patient.",
+        "b": "Reassess tourniquet effectiveness and administer 50 mg of ketamine IM.",
+        "c": "Administer 2 Tylenol 650 mg bilayer caplets PO and Meloxicam 15 mg PO.",
+        "d": "Initiate an IV of normal saline and administer a 500 mL fluid bolus.",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q36": {
+        "q": "A 23 year old male suffered an isolated penetrating eye injury prior to evacuation from the scene. What should you do in order to safely transport the patient?",
+        "a": "Tightly wrap pressure patches around both eyes.",
+        "b": "Assess his field of vision.",
+        "c": "Cover the eye with a rigid eye shield.",
+        "d": "Put safety goggles on the patient.",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q37": {
+        "q": "A 30-year-old female with a calculated total body surface area burn of 60% presents with hypotension. When should fluid resuscitation be initiated?",
+        "a": "During transport to the ED",
+        "b": "As soon as IV/IO is established",
+        "c": "Only after analgesia administration",
+        "d": "Only if patient is unconscious",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q38": {
+        "q": "Which patient requires the application of a tourniquet?",
+        "a": "23 year old male with a penetrating wound to the upper right chest; agonal respirations",
+        "b": "35 year old male with a gunshot wound to the right arm; bright red blood spurting from the wound",
+        "c": "18 year old female with an open fracture to her wrist; dark blood oozing from the fracture area",
+        "d": "46 year old male motorcyclist with a closed femur fracture to the left leg; swelling and deformity to the thigh",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q39": {
+        "q": "A 24 year old male police officer has a gunshot wound to right upper thigh with profuse bleeding. After application of a tourniquet, the bleeding is controlled. His skin is clammy and he has weak radial pulses with a respiratory rate of 28. He complains of severe pain from the tourniquet. What should you administer to manage the pain?",
+        "a": "Oral transmucosal fentanyl lozenge at 800 mcg",
+        "b": "Fentanyl 50 mg IV",
+        "c": "Morphine 10 mg IM",
+        "d": "Ketamine 20 mg IV",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q40": {
+        "q": "What is the most common initial presentation for a tension pneumothorax after chest trauma?",
+        "a": "Drop in oxygen saturation",
+        "b": "Jugular venous distention",
+        "c": "Progressive dyspnea",
+        "d": "Deviated trachea",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q41": {
+        "q": "When should foreign bodies be removed from the eye?",
+        "a": "During the indirect threat care phase",
+        "b": "During the direct threat care phase",
+        "c": "After evacuation",
+        "d": "Anytime there is a free moment",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q42": {
+        "q": "After a mass-casualty incident, you are retriaging injuries. A 35 year old male with a gunshot wound to the upper right chest who was previously treated with a nonvented occlusive dressing is currently very anxious and complaining of difficulty breathing. What should you do?",
+        "a": "Place in position of comfort.",
+        "b": "Apply a second occlusive dressing.",
+        "c": "Perform needle decompression.",
+        "d": "Manually burp the occlusive dressing.",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q43": {
+        "q": "Your RTF team is taking care of a casualty who has extensive facial trauma secondary to a gunshot wound. She is conscious and there is no suspected spinal injury. Your casualty complains of being uncomfortable, and she is attempting to sit up. What should you do?",
+        "a": "Establish cervical spine procedures regardless.",
+        "b": "Administer fentanyl IO to sedate her and manage pain.",
+        "c": "Allow her to sit up and lean forward as it may help open her airway.",
+        "d": "Instruct her to remain supine because it is better for her.",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q44": {
+        "q": "Why is a properly inserted nasopharyngeal airway an effective method of maintaining an airway?",
+        "a": "It enables you to suction the airway.",
+        "b": "It can be used as a definitive airway.",
+        "c": "It prevents the patient from speaking and interrupting your assessment.",
+        "d": "It prevents the tongue from sliding back and blocking the airway.",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q45": {
+        "q": "A 35 year old male has suffered second-degree burns to his chest, arms, and face. He has singed facial hair and is complaining of severe pain and shortness of breath. His voice is raspy and you note audible stridor. Vital signs are BP 150/80, P 130, R 32 and shallow. What should you do?",
+        "a": "Obtain the patient’s room air SpO2.",
+        "b": "Manually stabilize the spine.",
+        "c": "Administer high-flow oxygen via nonrebreathing mask.",
+        "d": "Establish IV access and begin fluid resuscitation.",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q46": {
+        "q": "When preparing to move a casualty during the direct threat care phase, which factor(s) should you identify?",
+        "a": "How much the casualty weighs",
+        "b": "How many people are needed, where you are moving to, and how you are moving the casualty",
+        "c": "What injuries the casualty has sustained and the need for spinal immobilization",
+        "d": "The triage designation of the casualty",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q47": {
+        "q": "In which location should a tourniquet or pressure bandage work?",
+        "a": "Femoral triangle",
+        "b": "Underneath the arm or axilla",
+        "c": "Carotid artery",
+        "d": "Above the wrist",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q48": {
+        "q": "After the scene of an explosion has been declared safe, you find a 19 year old male with 40% total body surface area burns with no visible signs of hemorrhage. His pulse is weak and he is only responsive to painful stimuli. What should you administer?",
+        "a": "Fentanyl IM",
+        "b": "Fluid via IV/IO access",
+        "c": "Antibiotics",
+        "d": "Fluid via oral access",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q49": {
+        "q": "Which patient should be first for transport from the casualty collection point?",
+        "a": "Penetrating wound to the abdomen; unresponsive with absent radial pulses",
+        "b": "Tension pneumothorax relieved by needle decompression",
+        "c": "Massive hemorrhage of the right arm controlled by a tourniquet",
+        "d": "Unresponsive; penetrating wound to the head and exposed brain matter",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q50": {
+        "q": "What is a sign that your patient has a thoracic injury?",
+        "a": "Increased breath sound on the right side",
+        "b": "Clammy skin",
+        "c": "Wheezing",
+        "d": "Crepitus to the left side of the chest wall",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q51": {
+        "q": "Which of the following is not a principle of TECC?",
+        "a": "Treat the casualty",
+        "b": "Prevent additional casualties",
+        "c": "Complete the mission",
+        "d": "Develop a mission specific medical plan",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q52": {
+        "q": "Which of the following is NOT one of the three phases of care in TECC?",
+        "a": "Direct Threat Care",
+        "b": "Indirect Treat Care",
+        "c": "Evacuation Care",
+        "d": "Rescue Taskforce Care",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q53": {
+        "q": "Which of the following is the preferred pain medication for someone who has wounds that are moderately painful but not life-threatening and that do not keep a patient from functioning effectively as a combatant?",
+        "a": "Morphine IV",
+        "b": "Morphine IM",
+        "c": "Mobic and Tylenol ER",
+        "d": "Aspirin",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q54": {
+        "q": "The most common cause of preventable death in a tactical situation is which of the following?",
+        "a": "Failure to use a tourniquet to control severe extremity bleeding.",
+        "b": "Failure to maintain an open airway.",
+        "c": "Not establishing an IV soon enough.",
+        "d": "Failure to maintain spinal stabilization.",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q55": {
+        "q": "Which of the following are the best field indicators of shock during Indirect Threat Care?",
+        "a": "Heart rate and face color",
+        "b": "Level of consciousness and quality of the radial pulse",
+        "c": "Rapid heart rate",
+        "d": "Blood pressure",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q56": {
+        "q": "Administering large quantities of IV crystalloids to a casualty who has bleeding sites inside the chest or abdomen may worsen hemorrhage by which of the following mechanisms?",
+        "a": "Diluting clotting factors or by interfering with clot formation at the bleeding site.",
+        "b": "Increasing Intracranial Pressure",
+        "c": "By displacing hemoglobin",
+        "d": "By increasing the vascular wall permeability.",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q57": {
+        "q": "A orpharyngeal airway (OPA) is contraindicated under which circumstances?",
+        "a": "Victim with a gag reflex",
+        "b": "Victim that has sustained Head and Facial trauma",
+        "c": "Shock of unknown origin",
+        "d": "Pediatric patient",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q58": {
+        "q": "Which of the following conditions is most likely to worsen the outcome from TBI?",
+        "a": "Hypotension",
+        "b": "Hypothermia",
+        "c": "Hypertension",
+        "d": "Hypernatremia",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q59": {
+        "q": "What is the most appropriate next step to maintain an open airway after the chin- lift/jaw-thrust method has been used to successfully open the airway of a casualty who is unconscious from a blast injury during the Indirect Threat Care phase of care?",
+        "a": "Nasopharyngeal airway",
+        "b": "King LT airway",
+        "c": "Tracheal intubation",
+        "d": "Laryngeal Mask Airway (LMA)",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q60": {
+        "q": "As a Tactical Medic/EMT you are confronted with the following casualties. Which one should be cared for first?",
+        "a": "Casualty A – shot in the head and unconscious",
+        "b": "Casualty B – shot in the abdomen – awake and alert",
+        "c": "Casualty C – heavy bleeding from a thigh wound",
+        "d": "Casualty D – traumatic cardiac arrest",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q61": {
+        "q": "A casualty has sustained a gunshot wound to the chest. As you watch him, he is having more and more trouble with his breathing. What is the best next step?",
+        "a": "Tracheal intubation",
+        "b": "Put in a chest tube",
+        "c": "Needle decompression",
+        "d": "Bag-mask ventilation",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q62": {
+        "q": "A casualty has sustained a gunshot wound to the face. He is conscious and maintaining his airway by sitting up and leaning forward. A Medic/EMT arrives on the scene. How should the casualty’s airway be managed?",
+        "a": "Place him in the supine position and intubate him",
+        "b": "Allow him to continue to sit up and lean forward",
+        "c": "Perform a surgical airway",
+        "d": "Place a nasopharyngeal airway (NPA)",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q63": {
+        "q": "What is the best quick-check method to determine if the patient has an adequate airway?",
+        "a": "Ask a question that requires a response from the casualty",
+        "b": "Check for a bluish color of the nail beds",
+        "c": "Determine the casualty’s respiratory rate",
+        "d": "Auscultate the chest",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q64": {
+        "q": "Which of the following is an acceptable site for needle decompression?",
+        "a": "4th or 5th intercostal space at the anterior axillary line",
+        "b": "1st or 2nd intercostal space at the anterior axillary line",
+        "c": "2nd or 3rd intercostal space at the sternal border",
+        "d": "Just lateral of the Angle of Louis",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q65": {
+        "q": "What level of blood loss is likely to be associated with death from hemorrhagic shock?",
+        "a": "0.5 liters",
+        "b": "1.0 liter",
+        "c": "1.5 liters",
+        "d": "2.5 liters",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q66": {
+        "q": "Giving a rapid infusion of IV fluids to casualties may have a negative impact on outcome with the exception of which of the following conditions?",
+        "a": "Uncontrolled bleeding into the abdomen",
+        "b": "A junctional bleeding wound",
+        "c": "Dehydration",
+        "d": "Traumatic Brain Injury",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q67": {
+        "q": "Which of the following casualties has the greatest need for an emergent evacuation?",
+        "a": "A casualty of an IED who has a traumatic amputation of the leg at the knee with bleeding controlled by a tourniquet.",
+        "b": "A casualty who was shot in the head and is unconscious with a significant amount of brain tissue exposed.",
+        "c": "A casualty who was shot in the abdomen and now has an absent radial pulse.",
+        "d": "A casualty in traumatic cardiac arrest",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q68": {
+        "q": "What is the most important thing to do after splinting an open fracture?",
+        "a": "Check to ensure that the pulses distal to the splint have not been reduced by the splint",
+        "b": "Check to ensure that the extremity is completely covered by the wrapping material used in splinting",
+        "c": "Check to ensure that the extremity is in perfect alignment",
+        "d": "Check the remaining extremities for fractures",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q69": {
+        "q": "Which of the following is an appropriate reason to give casualty morphine?",
+        "a": "His wounds are minor and he can continue to fight",
+        "b": "He is in shock",
+        "c": "He has a chest wound and is in respiratory distress",
+        "d": "He has burns over 40% BSA",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q70": {
+        "q": "Which of the following statements about Tactical Casualty Care is true?",
+        "a": "Extremity hemorrhage is the most frequent cause of preventable deaths in the tactical situation.",
+        "b": "Most tactical fatalities die from airway problems",
+        "c": "Life-threatening extremity bleeding is treated in the Direct Threat Care phase with Hemostatic Gauze",
+        "d": "Airway management is accomplished in the Direct Threat Care phase",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q71": {
+        "q": "You are treating a casualty with a gunshot wound to his lower jaw which severely disrupts the oropharyngeal anatomy.  He suddenly develops complete airway obstruction, struggles briefly, and loses consciousness. What is the airway intervention of choice?",
+        "a": "Nasopharyngeal airway placement",
+        "b": "Endotracheal intubation",
+        "c": "Surgical airway",
+        "d": "Bag-mask ventilation",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q72": {
+        "q": "During an early morning high risk warrant service in a rural area you sustained a gunshot wound to your right thigh that produced heavy arterial bleeding. You initially controlled the hemorrhage by applying your own tourniquet. There are no other medics in your unit, and the helicopter evacuation platform will arrive at your location in one-half hour. The closest trauma center is 15 minutes away by air. Which is the best strategy for dealing with the tourniquet on your leg?",
+        "a": "Replace the tourniquet with a Hemostatic Gauze dressing",
+        "b": "Loosen the tourniquet to see if the bleeding stopped",
+        "c": "Construct a pressure dressing over your leg wound, and remove the tourniquet yourself",
+        "d": "Leave the tourniquet in place",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q73": {
+        "q": "Which of the following statements concerning Tactical Casualty Care is true?",
+        "a": "Casualties who are alert and can swallow should not be allowed to take fluids by mouth.",
+        "b": "The intraosseous method is a good way to obtain vascular access for a casualty in whom an IV cannot be started.",
+        "c": "Pulse oximetry and other electronic monitoring are not useful during helicopter Tactical Evacuation Care.",
+        "d": "All combat wounds produce severe pain.",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q74": {
+        "q": "Fluid resuscitation to treat shock is first considered in which phase of care?",
+        "a": "Direct Threat Care",
+        "b": "Indirect Threat Care",
+        "c": "Evacuation Care",
+        "d": "Hospital Care",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q75": {
+        "q": "Which statement concerning hypothermia is true?",
+        "a": "Much easier to prevent than treat",
+        "b": "Not an issue in modern military or civilian helicopters",
+        "c": "Improves trauma patient outcome",
+        "d": "Impossible to prevent in all casualties",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q76": {
+        "q": "All of the following are an advantage of fentanyl lozenges over morphine except which one?",
+        "a": "No need to start an IV to administer",
+        "b": "Works faster than IM morphine",
+        "c": "No potential for respiratory depression",
+        "d": "Cheaper than morphine per dose",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q77": {
+        "q": "Which of the following describes the correct landmarks for performing a needle decompression (on the side of the chest with the injury)?",
+        "a": "Second intercostal space, mid-clavicular line",
+        "b": "Second intercostal space, mid-axillary line",
+        "c": "Fourth intercostal space, mid-clavicular line",
+        "d": "Third intercostal space, mid-axillary line",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q78": {
+        "q": "In a hazardous environment, what is the initial treatment of choice for stopping severe extremity hemorrhage?",
+        "a": "Direct pressure",
+        "b": "Pressure point compression",
+        "c": "Elevation of the extremity",
+        "d": "A tourniquet",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q79": {
+        "q": "What is the primary role for Hemostatic Gauze dressings?",
+        "a": "Control of severe external bleeding",
+        "b": "Abdominal wounds without severe external bleeding",
+        "c": "Open head wounds with minor bleeding and brain matter exposed",
+        "d": "Control of major intrathoracic hemorrhage",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q80": {
+        "q": "You have a casualty with severe external bleeding from a groin wound. During Indirect Threat Care, you packed the wound with hemostatic gauze but were unsuccessful at stopping the hemorrhage. What should you do next?",
+        "a": "Stop and take a few minutes to think about what to do next.",
+        "b": "Revert to a standard gauze dressing to control bleeding.",
+        "c": "Remove the first hemostatic gauze and replace with a second.",
+        "d": "Stick your finger into the wound and block the bleeding blood vessel",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q81": {
+        "q": "A casualty with a decreased level of consciousness (without TBI) and an abnormal radial pulse is considered as which of the following?",
+        "a": "Immediately pre-terminal",
+        "b": "Herniating",
+        "c": "Experiencing acute onset of PTSD",
+        "d": "In shock",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q82": {
+        "q": "Which is the best route for administering morphine to a trauma patient?",
+        "a": "Intramuscular",
+        "b": "Subcutaneous",
+        "c": "Intravenous",
+        "d": "Sublingual",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q83": {
+        "q": "In addition to treating the casualty and completing the mission, what is the third objective of TECC?",
+        "a": "Stop tactical movement to arrange medical care",
+        "b": "Evacuate all casualties via Helicopter EMS",
+        "c": "Prevent additional injuries and minimize public harm",
+        "d": "Ensure all casualties receive IV’s",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q84": {
+        "q": "A casualty with a sucking chest wound has been treated with an non-vented occlusive dressing. She begins to have increasing difficulty breathing. Which of the following is the correct first action?",
+        "a": "Put in a chest tube",
+        "b": "Lift one side of the occlusive dressing",
+        "c": "Perform a needle decompression.",
+        "d": "increase the amount of oxygen administered",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q85": {
+        "q": "Positive pressure ventilation and the use of an unvented chest seal may predispose a patient to which of the following complications?",
+        "a": "Increased hemorrhage",
+        "b": "Flail chest",
+        "c": "Tension pneumothorax",
+        "d": "Carotid artery embolus",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q86": {
+        "q": "Which of the following is the preferred IV/IM antibiotic in TECC?",
+        "a": "Cefazolin",
+        "b": "Ertapenem",
+        "c": "Gentamicin",
+        "d": "Penicillin",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q87": {
+        "q": "How should tourniquets be applied in Direct Threat Care?",
+        "a": "Distal to the injury",
+        "b": "Loose to be tightened later if all other attempts at bleeding control fail",
+        "c": "Exactly 1.5 to 2 inches above the injury with no clothing between the tourniquet and the casualty’s skin",
+        "d": "High and tight",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q88": {
+        "q": "Before giving narcotic analgesia to a combatant, the provider should first take which of the following actions?",
+        "a": "Place a large bore IV",
+        "b": "Disarm the combatant",
+        "c": "Ask permission from the combatant’s physician",
+        "d": "Make sure the combatant is on an evacuation platform before receiving analgesia",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q89": {
+        "q": "Why is ketamine useful in trauma?",
+        "a": "It has less of an effect on blood pressure than morphine or Fentanyl",
+        "b": "It can be given IV",
+        "c": "It is less of a vasoconstrictor",
+        "d": "The casualty can still fight after administration",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q90": {
+        "q": "All of the following will make a TBI worse except which finding?",
+        "a": "Hypovolemic shock",
+        "b": "Hypothermia",
+        "c": "Hypoxia",
+        "d": "CO2 level of 35-45",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q91": {
+        "q": "Which statement about tourniquets is false?",
+        "a": "Damage to an arm or a leg is rare if the tourniquet is left on for less than two hours.",
+        "b": "Tourniquets are often left in place for several hours during surgical procedures.",
+        "c": "Training tourniquets can be used on missions if they have only been used for less than six months.",
+        "d": "All unit members should have a tourniquet at a standard location on their battle gear.",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q92": {
+        "q": "Which of the following statements regarding TXA is false?",
+        "a": "It promotes new clot formation.",
+        "b": "It prevents the breakdown of forming clots.",
+        "c": "The survival benefit is greatest if it is given within one hour of injury.",
+        "d": "A second dose should be given after initial fluid resuscitation is completed.",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q93": {
+        "q": "What should a provider do if a patient’s blood pressure drops while receiving TXA?",
+        "a": "Speed up the infusion",
+        "b": "Add an additional gram of TXA to the infusion",
+        "c": "Slow down the infusion",
+        "d": "Immediately administer Anti-TXA antidote",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q94": {
+        "q": "The goals of fluid resuscitation are a palpable radial pulse and which of the following?",
+        "a": "B/P of at least 110 systolic",
+        "b": "Heart rate greater than 120",
+        "c": "End points defined by the Parkland formula",
+        "d": "Improved level of consciousness in the absence of a traumatic brain injury",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q95": {
+        "q": "When dealing with pediatric casualties, which of the following may enhance airway positioning?",
+        "a": "Elevating the casualty’s feet",
+        "b": "Early intubating all pediatrics",
+        "c": "Elevation of the casualty’s shoulders",
+        "d": "Withholding Oxygen to promote a hypoxic drive",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q96": {
+        "q": "How does TXA work?",
+        "a": "Prevents clots that are forming from being broken down by the body",
+        "b": "Elevates ATP production resulting in increased energy",
+        "c": "Blocks the Krebs Cycle, thus decreasing acidosis",
+        "d": "Help carry oxygen to cells",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q97": {
+        "q": "Which of the following is a common site for junctional hemorrhage?",
+        "a": "Back of the head",
+        "b": "Area between fingers",
+        "c": "Area behind the knee",
+        "d": "Base of the neck",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q98": {
+        "q": "What is the most appropriate type of catheter to use to decompress a tension pneumothorax?",
+        "a": "As short as commercially available",
+        "b": "20 gauge X 1.25 inches",
+        "c": "Bi-beveled trocar",
+        "d": "10-14 gauge X 3.25 inches",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q99": {
+        "q": "Which term describes air between the lung and chest wall due to an injury to the lung (either open or closed)?",
+        "a": "Traumatic fistula",
+        "b": "Empyema",
+        "c": "Pleural effusion",
+        "d": "Pneumothorax",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q100": {
+        "q": "How long does it take to bleed to death from a complete femoral artery and vein disruption?",
+        "a": "Hours to days",
+        "b": "Femoral artery injuries are extremely rare and are not a concern",
+        "c": "Instantly",
+        "d": "As little as 3 minutes",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q101": {
+        "q": "A 25-year-old male has a gunshot wound to the left leg. A tourniquet was applied to control bleeding, and he is maintaining an open airway. In the cold zone, he is anxious with a weak radial pulse and is shivering. What should you do?",
+        "a": "Initiate skin-to-skin contact warming.",
+        "b": "Remove wet clothing and apply a thermal barrier.",
+        "c": "Ask a paramedic to administer a warned IV infusion.",
+        "d": "Administer warmed blood products with a Ready-Heat blanket.",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q102": {
+        "q": "While you are in the hot zone, a team member is hit in the helmet with shrapnel. His helmet has 2 cm of intrusion, but it effectively stopped the object. He is supine and unconscious. What should you do?",
+        "a": "Place the patient in the recovery position.",
+        "b": "Minimize environmental exposure and promote heat retention.",
+        "c": "Obtain IV access with an 18-gauge needle.",
+        "d": "Conduct a thorough head-to-toe assessment.",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q103": {
+        "q": "A 33-year-old male has been shot by an assailant while shopping at the local mall. He is awake, seems confused, and keeps screaming, \"I can't breathe!\" He has a gunshot wound to his upper right chest that is bubbling as he breathes. His is pale, sweating, and in obvious respiratory distress. What should you do?",
+        "a": "Apply trauma dressing.",
+        "b": "Begin assisting ventilations.",
+        "c": "Apply an occlusive chest seal.",
+        "d": "Administer high-flow oxygen.",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q104": {
+        "q": "Your SWAT team is entering a building where an improvised explosive device (IED) has detonated. During the indirect threat phase, you encounter a male patient who is unconscious and lying on his back. The patient has obvious facial trauma and snoring respirations. What should you do first?",
+        "a": "Perform a jaw thrust.",
+        "b": "Place the patient in the recovery position.",
+        "c": "Sit the patient up and move to the next patient.",
+        "d": "Insert a nasal airway.",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q105": {
+        "q": "Why is a nasopharyngeal airway an effective method of maintaining an airway?",
+        "a": "It prevents the patient from speaking and interrupting your assessment.",
+        "b": "The nasopharyngeal airway is more easily dislodged.",
+        "c": "The nasopharyngeal airway is better tolerated by a conscious patient.",
+        "d": "It can be used as a definitive airway.",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q106": {
+        "q": "A 37-year-old hostage is in a house and begins seizing. He has stopped seizing by the time you extract him. He is breathing at 224 breaths per minute with adequate chest rise and fall, but he is still unresponsive. What should you do?",
+        "a": "Place him in the recovery position.",
+        "b": "Roll him into a prone position.",
+        "c": "Keep the patient supine.",
+        "d": "Sit the patient up against a tree.",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q107": {
+        "q": "During an armored car robbery, a 37-year-old male security guard was shot by the perpetrator and fell from his armored car. He suffered a penetrating wound to the left thigh with spurting blood and a fractured right wrist. What should you do first?",
+        "a": "Apply high-flow oxygen.",
+        "b": "Apply a tourniquet to the left thigh.",
+        "c": "Utilize pressure points to stop the bleeding.",
+        "d": "Splint the wrist.",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q108": {
+        "q": "A 33-year-old responder is bleeding heavily from a gunshot wound to the right chest. He complains of difficulty breathing and pain to the injured site. An active shooter is in the vicinity. What should you do?",
+        "a": "Perform needle decompression.",
+        "b": "Start the chain of survival.",
+        "c": "Extract to a treatment area.",
+        "d": "Apply a gloved hand over the injury, and then apply an occlusive dressing.",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q109": {
+        "q": "Your RFT team is taking care of a casualty who has extensive facial trauma secondary to a gunshot wound. She is conscious, and there is no suspected spinal injury. Your casualty complains of being uncomfortable, and she is attempting to sit up. What should you do?",
+        "a": "Instructor her to remain supine because it is better for her.",
+        "b": "Ask a paramedic to sedate her and manage pain.",
+        "c": "Establish cervical spine immobilization procedures regardless.",
+        "d": "Allow her to sit up and lean forward, because it may help open her airway.",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q110": {
+        "q": "A 39-year-old female casualty is bleeding from a junctional wound. What should you do?",
+        "a": "Reposition the casualty to elevate the injured area.",
+        "b": "Pack the wound with a hemostatic dressing.",
+        "c": "Ask a paramedic to administer 1 gram of tranexamic acid via IV infusion.",
+        "d": "Apply a tourniquet to the injured area.",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q111": {
+        "q": "Applying direct pressure to a wound is an appropriate intervention for which of the following casualties?",
+        "a": "Conscious victim with trickling bleeding during direct threat care",
+        "b": "Unconscious victim with minimal bleeding during indirect threat care",
+        "c": "Conscious victim with heavy bleeding during indirect threat care",
+        "d": "Conscious victim with heavy bleeding during direct threat care",
+        "themes": [],
+        "inUse": false,
+        "correct": "c"
+    },
+    "q112": {
+        "q": "After a mass-casualty incident, you are retriaging injuries. A 35-year-old male with a gunshot wound to the upper right chest who was previously treated with a nonvented occlusive dressing is currently very anxious and complaining of difficulty breathing. What should you do?",
+        "a": "Manually burp the occlusive dressing.",
+        "b": "Place in a position of comfort.",
+        "c": "Perform needle decompression.",
+        "d": "Apply a second occlusive dressing.",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q113": {
+        "q": "A 42-year-old female is lying prone on the floor after an improvised explosive device (IED) was detonated near her and several others. She is conscious, talking, and seems confused. You note minor bleeding from the mouth. What should you do?",
+        "a": "Place the patient in the recovery position.",
+        "b": "Sit the patient up, and move to the next patient.",
+        "c": "Perform a jaw thrust.",
+        "d": "Insert a nasal airway.",
+        "themes": [],
+        "inUse": false,
+        "correct": "b"
+    },
+    "q114": {
+        "q": "You have treated your partner for a sucking chest wound by applying a nonvented occlusive dressing. As you continue to monitor your partner, you notice she is having increased difficulty breathing. What should you do?",
+        "a": "Immediately intubate.",
+        "b": "Apply another occlusive dressing.",
+        "c": "Provide positive pressure ventilation.",
+        "d": "Burp the occlusive dressing.",
+        "themes": [],
+        "inUse": false,
+        "correct": "d"
+    },
+    "q115": {
+        "q": "A 16-year-old male is found at the base of the steps during a mass shooting incident. The patient presents with altered mental status and blood leaking form his ears. What should you suspect?",
+        "a": "Possible head injury",
+        "b": "Toxin ingestion",
+        "c": "Cardiac irregularities",
+        "d": "Low blood sugar",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    },
+    "q116": {
+        "q": "In the indirect threat care/warm zone, you have finished your MARCH algorithm and patient assessment on your partner, who is wounded with a broken wrist. As you are preparing for evacuation, you notice your partner is cold. What should you do?",
+        "a": "Cover with a blanket.",
+        "b": "Splint extremities.",
+        "c": "Administer antibiotics.",
+        "d": "Complete a triage tag.",
+        "themes": [],
+        "inUse": false,
+        "correct": "a"
+    }
+}
