@@ -1,1 +1,1 @@
-Demo for Emerging Tactical
+A demo for the game "Emerging Tactical".
